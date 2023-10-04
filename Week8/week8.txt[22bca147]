@@ -1,4 +1,4 @@
-Program : 1 
+Program : 1 [22bca147]
 
 Create CSV File for Product Selling for 6 Months and add at-least 5 Records for 5 different products. 
 (Prod_Name, Jan ,Feb, Mar, Apr , May, Jun ) 
@@ -43,7 +43,7 @@ df.to_csv('c:\sqlite\csv\sell_analysis.csv',index=False)
 
 
 
-Program : 2 
+Program : 2 [22bca147]
 
 Sales (sid, year, totalsales)
 Create above table into a SQLite database with appropriate constraints. 
